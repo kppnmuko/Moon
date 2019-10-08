@@ -12,7 +12,7 @@ comments: false
   {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
 
 		<ul class="entry-meta inline-list">
-    {% for post in site.tags[test] %}{% if post.title != null %}
+    {% for post in site.tags[#test post] %}{% if post.title != null %}
       <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
 		</ul>

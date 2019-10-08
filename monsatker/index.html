@@ -10,7 +10,7 @@ comments: false
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% for post in site.tags[#test ] %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+<a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
     {% endif %}{% endfor %}
 
 <!-- /.hentry -->

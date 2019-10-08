@@ -1,24 +1,16 @@
 ---
 layout: page
-title: About the Theme
+title: Tentang Monsatker181
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2019-10-08
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://kppnmuko.github.io/"><b>Monsatker181</b></a> adalah sumber informasi dan pengingat satker atas kewajiban yang harus dilaksanakan.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Fitur Utama
+* Mengecek kapan terakhir Penggantian Uang Persediaan (GUP)
+* Mengecek apakah telah melaksanakan kewajiban penyampaian Laporan Pertanggungjawaban Bendahara (LPJ), Rekonsiliasi Eksternal, dan Penyampaian Daftar Saldo Rekening.
 
 ## Preview
 
@@ -28,10 +20,10 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Silahkan untuk dapat mengecek kewajiban satker anda [di sini](https://kppnmuko.github.io/).
 
-## Getting Started
+## Setelah mengetahui kewajiban apa saja
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Silahkan untuk dapat melaksanakan kewajiban dan mengecek aplikasi OMSPAN untuk memastikan
+
+[OMSPAN](https://spanint.kemenkeu.go.id){: .btn}

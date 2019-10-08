@@ -9,9 +9,6 @@ comments: false
 {% assign tags_list = site_tags | split:',' | sort %}
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-  {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-
-
     {% for post in site.tags[#test ] %}
       <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}

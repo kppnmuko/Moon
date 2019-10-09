@@ -8,7 +8,7 @@ comments: false
     
 <center>Silahkan cari kode satker atau uraian satker Anda.</center>
 
-->[668533 - Badan Pusat Statistik Kabupaten Mukomuko](https://kppnmuko.github.io/668533){: .btn}<-
+[668533 - Badan Pusat Statistik Kabupaten Mukomuko](https://kppnmuko.github.io/668533){: .btn}
 
 [512769 - Bandar Udara Mukomuko](https://kppnmuko.github.io/512769){: .btn}
 

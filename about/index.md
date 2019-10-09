@@ -1,26 +1,22 @@
 ---
 layout: page
-title: Tentang Monsatker181
+title: Tentang MANJUNTO
 tags: [about, Jekyll, theme, moon]
 date: 2019-10-08
 comments: false
 ---
     
-<center><a href="https://kppnmuko.github.io/"><b>Monsatker181</b></a> adalah sumber informasi dan pengingat satker atas kewajiban yang harus dilaksanakan.</center>
+<a href="https://kppnmuko.github.io/"><b>MANJUNTO</b></a> (Monitoring Kewajiban Satker Mendekati Jatuh Tempo) adalah sumber informasi dan pengingat satker atas kewajiban yang harus dilaksanakan.
 
-## Fitur Utama
-* Mengecek kapan terakhir Penggantian Uang Persediaan (GUP)
-* Mengecek apakah telah melaksanakan kewajiban penyampaian Laporan Pertanggungjawaban Bendahara (LPJ), Rekonsiliasi Eksternal, dan Penyampaian Daftar Saldo Rekening.
+## Fitur utama monitoring untuk:
+1. Gaji Induk PNS
+2. Gaji Induk PPNPN
+3. Laporan Saldo Rekening
+4. Rekonsiliasi Rekening Pemerintah
+5. Laporan Pertanggungjawaban Bendahara
+6. Rekonsiliasi Eksternal Tingkat UAKPA
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-Silahkan untuk dapat mengecek kewajiban satker anda [di sini](https://kppnmuko.github.io/).
+Silahkan untuk dapat mengecek kewajiban satker anda [di sini](https://kppnmuko.github.io/manjunto).
 
 ## Setelah mengetahui kewajiban apa saja
 

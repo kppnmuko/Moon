@@ -17,6 +17,6 @@ comments: false
 5. Laporan Pertanggungjawaban Bendahara
 6. Rekonsiliasi Eksternal Tingkat UAKPA
 
-[Cek A-MANJUNTO di sini](https://ajirogo.com/manjunto).
+[Cek A-MANJUNTO di sini](https://ajirogo.com/amanjunto).
 
 [Cek OMSPAN di sini](https://spanint.kemenkeu.go.id)

@@ -8,7 +8,7 @@ comments: false
     
 <a href="https://kppnmuko.github.io/"><b>MANJUNTO</b></a> (Monitoring Kewajiban Satker Mendekati Jatuh Tempo) adalah aplikasi yang dikembangkan oleh KPPN Mukomuko untuk memonitor kewajiban satker kepada KPPN Mukomuko berupa kewajiban Pengajuan Gaji Induk PNS, Penghasilan PPNPN, Penggantian Uang Persediaan/Tambahan Uang Persediaan, Laporan Saldo Rekening, Pelaksanaan Rekonsiliasi Rekening Pemerintah, Laporan Pertanggungjawaban Bendahara, dan Rekonsiliasi Eksternal Tingkat UAKPA, sehingga memudahkan satker dalam menjaga ketepatan pemenuhan kewajibannya.
 
-## Fitur utama monitoring untuk:
+## Fitur monitoring satker:
 1. Gaji Induk PNS
 2. Penghasilan PPNPN
 3. Penggantian Uang Persediaan/Tambahan Uang Persediaan

@@ -17,6 +17,6 @@ comments: false
 5. Laporan Pertanggungjawaban Bendahara
 6. Rekonsiliasi Eksternal Tingkat UAKPA
 
-Cek monitoring [di sini](https://kppnmuko.github.io/manjunto).
+[Cek MANJUNTO di sini](https://kppnmuko.github.io/manjunto).
 
-Cek OMSPAN [di sini](https://spanint.kemenkeu.go.id)
+[Cek OMSPAN di sini](https://spanint.kemenkeu.go.id)

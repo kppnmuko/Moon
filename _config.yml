@@ -1,7 +1,7 @@
 # Site
-title:              Monsatker181
-bio:                'Monitoring Minimalis, sebagai pengingat kewajiban yang harus dilaksanakan.'
-description:        "Monitoring Minimalis, untuk satker KPPN Mukomuko."
+title:              Manjunto
+bio:                'Monitoring Kewajiban Satker Mendekati Jatuh Tempo'
+description:        "Monitoring Kewajiban Satker Mendekati Jatuh Tempo (Manjunto), aplikasi yang digunakan untuk memonitor kewajiban satker lingkup KPPN Mukomuko yang mendekati batas waktu penyampaian"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'

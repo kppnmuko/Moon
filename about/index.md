@@ -17,10 +17,6 @@ comments: false
 5. Laporan Pertanggungjawaban Bendahara
 6. Rekonsiliasi Eksternal Tingkat UAKPA
 
-Silahkan untuk dapat mengecek kewajiban satker anda [di sini](https://kppnmuko.github.io/manjunto).
+Cek monitoring [di sini](https://kppnmuko.github.io/manjunto).
 
-## Setelah mengetahui kewajiban apa saja
-
-Silahkan untuk dapat melaksanakan kewajiban dan mengecek aplikasi OMSPAN untuk memastikan
-
-[OMSPAN](https://spanint.kemenkeu.go.id){: .btn}
+Cek OMSPAN [di sini](https://spanint.kemenkeu.go.id)

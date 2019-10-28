@@ -28,7 +28,7 @@ comments: false
 
 [446078 - Kantor Pertanahan Kab. Mukomuko](https://kppnmuko.github.io/446078){: .btn}
 
-[664372 - Kejaksaan Negeri Mukomuko](https://kppnmuko.github.io/663972){: .btn}
+[664372 - Kejaksaan Negeri Mukomuko](https://kppnmuko.github.io/664372){: .btn}
 
 [656691 - KPU Kab. Mukomuko](https://kppnmuko.github.io/656691){: .btn}
 

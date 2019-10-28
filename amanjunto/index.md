@@ -50,12 +50,12 @@ comments: false
 
 [502263 - Pembangunan Infrastruktur Permukiman](https://kppnmuko.github.io/502263){: .btn}
 
-[401939 - Pengadian Agama Mukomuko](https://kppnmuko.github.io/401939){: .btn}
+[401939 - Pengadilan Agama Mukomuko](https://kppnmuko.github.io/401939){: .btn}
 
-[403404 - Pengadian Agama Mukomuko](https://kppnmuko.github.io/403404){: .btn}
+[403404 - Pengadilan Agama Mukomuko](https://kppnmuko.github.io/403404){: .btn}
 
-[401910 - Pengadian Negeri Mukomuko](https://kppnmuko.github.io/401910){: .btn}
+[401910 - Pengadilan Negeri Mukomuko](https://kppnmuko.github.io/401910){: .btn}
 
-[402018 - Pengadian Negeri Mukomuko](https://kppnmuko.github.io/402018){: .btn}
+[402018 - Pengadilan Negeri Mukomuko](https://kppnmuko.github.io/402018){: .btn}
 
 [665239 - Polres Mukomuko](https://kppnmuko.github.io/665239){: .btn}

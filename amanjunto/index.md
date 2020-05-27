@@ -9,7 +9,7 @@ Pagu Penyaluran Dana Desa Kabupaten Mukomuko Tahun Anggaran 2020
 <div markdown="0"><a href="#" class="btn btn-warning"> Rp. 122.876.536.000,- </a></div>
 
 <center>
-<iframe width="629" height="228.4691666666667" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLCn36KKkRfWm4qyj9H-QsgjFZvNdgh1eYtICC_HOLLOO-DCTZLBFANCkTXmlDmDN4uxiRx-TnExH6/pubchart?oid=462527896&amp;format=interactive"></iframe>
+<iframe width="600" height="228.4691666666667" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLCn36KKkRfWm4qyj9H-QsgjFZvNdgh1eYtICC_HOLLOO-DCTZLBFANCkTXmlDmDN4uxiRx-TnExH6/pubchart?oid=462527896&amp;format=interactive"></iframe>
 </center>
 .
 <center>

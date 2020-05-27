@@ -1,7 +1,7 @@
 # Site
 title:              A-MANJUNTO
-bio:                'Aplikasi Monitoring Kewajiban Satker Mendekati Jatuh Tempo'
-description:        "Aplikasi Monitoring Kewajiban Satker Mendekati Jatuh Tempo (AMANJUNTO), aplikasi yang digunakan untuk memonitor kewajiban satker lingkup KPPN Mukomuko yang mendekati batas waktu penyampaian"
+bio:                'Aplikasi Monitoring Dana Desa dan Dana Alokasi Khusus Fisik KPPN Mukomuko'
+description:        "AMANJUNTO, aplikasi yang digunakan untuk memonitor penyaluran Dana Desa dan Dana Alokasi Khusus Fisik lingkup KPPN Mukomuko"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'

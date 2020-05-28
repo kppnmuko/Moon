@@ -6,11 +6,9 @@ date: 2020-05-27
 comments: false
 ---
 <center>
-<h2>
-Pagu Penyaluran Dana Desa Kabupaten Mukomuko Tahun Anggaran 2020:
-Rp. 122.876.536.000,-
-untuk 148 Desa (telah mengalami perubahan Pagu DIPA sebanyak satu kali)
-</h2>
+    <h3>Pagu Penyaluran Dana Desa Kabupaten Mukomuko Tahun Anggaran 2020:</h3>
+    <h2>Rp. 122.876.536.000,-</h2>
+    <h3>untuk 148 Desa (telah mengalami perubahan Pagu DIPA sebanyak satu kali)</h3>
 </center>
 .
 <center>

@@ -23,4 +23,4 @@ comments: false
 <iframe width="483.5" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLCn36KKkRfWm4qyj9H-QsgjFZvNdgh1eYtICC_HOLLOO-DCTZLBFANCkTXmlDmDN4uxiRx-TnExH6/pubchart?oid=152696882&amp;format=interactive"></iframe>
 </center>
 .
-<center><div markdown="0"><a href="/perdesa" class="btn btn-info">Rincian Per Desa</a></div></center>
+<center><div markdown="0"><a href="/perdesa/" class="btn btn-info">Rincian Per Desa</a></div></center>

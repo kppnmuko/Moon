@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rincian Per Desa"
-date:   2020-09-01
+date:   2020-09-23
 excerpt: "Penyaluran Dana Desa 2020 Per Desa"
 tag:
 - danadesa 
